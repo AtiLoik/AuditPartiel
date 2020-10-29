@@ -2,9 +2,9 @@
 
 ## PREREQUIS: 
 
-Installer [tomcat](https://tomcat.apache.org/tomcat-8.5-doc/setup.html)
+Installer [tomcat 8](https://tomcat.apache.org/download-80.cgi)
 
-Installer [mysql](https://dev.mysql.com/doc/refman/8.0/en/installing.html)
+Installer [mysql](https://dev.mysql.com/downloads/installer/)
 
 ## POCEDURES:
 
