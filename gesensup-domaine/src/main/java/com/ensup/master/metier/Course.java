@@ -3,7 +3,7 @@ package com.ensup.master.metier;
 
 import java.util.Collection;
 
-import javax.annotation.Generated;
+//import javax.annotation.Generated;
 import javax.persistence.Entity;
 import javax.persistence.FetchType;
 import javax.persistence.GeneratedValue;
